@@ -74,6 +74,7 @@ class App extends React.Component {
         <Header
           appName={this.props.appName}
           currentUser={this.props.currentUser} />
+            Thana Business
       </div>
     );
   }
